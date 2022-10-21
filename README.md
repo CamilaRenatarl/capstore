@@ -1,2 +1,1 @@
-# capstore
-corredor fantasma con gravedad
+# C21
